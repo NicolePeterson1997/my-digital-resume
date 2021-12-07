@@ -1,7 +1,9 @@
 body{
-  font-family: sans-serif;
+  font-family:sans-serif;
   font-size:110%;
-  background-color: red
+  background-color
+}
+
 
 header {
   text-align: center;
@@ -10,4 +12,16 @@ header {
 footer {
   background-color: #343330;
   text-align: center;
+}
+
+.section{
+
+
+background-color: red;
+}
+  
+.list {
+
+   
+list-style: none;
 }
