@@ -6,10 +6,16 @@ body{
 
 
 header {
-  text-align: left;
+  text-align: center;
 
 }
 
+.main
+{
+
+
+   
+}
  #heading{
    font-family: sans-serif;
    background-color: #1f2833;
@@ -24,6 +30,7 @@ footer {
 #headshot{
   width: 30%;
   height:15%;
+  border: aquamarine;
   border-radius:50% ;
   
 }
